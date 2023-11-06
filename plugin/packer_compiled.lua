@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "/home/arlukii/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  cattpuccin = {
+    loaded = true,
+    path = "/home/arlukii/.local/share/nvim/site/pack/packer/start/cattpuccin",
+    url = "https://github.com/catppuccin/nvim"
+  },
   ["cmp-buffer"] = {
     loaded = true,
     path = "/home/arlukii/.local/share/nvim/site/pack/packer/start/cmp-buffer",
@@ -149,11 +154,6 @@ _G.packer_plugins = {
     needs_bufread = false,
     path = "/home/arlukii/.local/share/nvim/site/pack/packer/opt/nvim-web-devicons",
     url = "https://github.com/nvim-tree/nvim-web-devicons"
-  },
-  ["oxocarbon-lua.nvim"] = {
-    loaded = true,
-    path = "/home/arlukii/.local/share/nvim/site/pack/packer/start/oxocarbon-lua.nvim",
-    url = "https://github.com/B4mbus/oxocarbon-lua.nvim"
   },
   ["packer.nvim"] = {
     loaded = true,
